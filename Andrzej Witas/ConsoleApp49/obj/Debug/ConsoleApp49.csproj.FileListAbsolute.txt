@@ -1,0 +1,7 @@
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csprojResolveAssemblyReference.cache
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.csproj.CoreCompileInputs.cache
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.exe.config
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.exe
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\bin\Debug\ConsoleApp49.pdb
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.exe
+c:\users\sara i jędrek\source\repos\ConsoleApp49\ConsoleApp49\obj\Debug\ConsoleApp49.pdb
